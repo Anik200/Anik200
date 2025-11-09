@@ -1,5 +1,5 @@
 ## Hi there 👋 Im Anik!
-I’m currently working on assignments
+I’m currently working on assignments\n
 ask me stuff on discord @8uys
 
 <!--
