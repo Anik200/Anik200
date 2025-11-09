@@ -1,6 +1,6 @@
 ## Hi there 👋 Im Anik!
-I’m currently working on assignments\n
-ask me stuff on discord @8uys
+- I’m currently working on assignments
+- ask me stuff on discord @8uys
 
 <!--
 **Anik200/Anik200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
